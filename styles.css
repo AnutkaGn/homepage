@@ -198,6 +198,32 @@ body {
     margin-bottom: 25px;
 }
 
+.experiences__pet-project {
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+.experiences__pet-project-name {
+    color: var(--primary-text-color);
+    text-align: left;
+    margin-bottom: 10px;
+      text-decoration-color: var(--text-decoration-color);
+    text-decoration-line: underline;
+}
+.experiences__pet-project-role {
+    color: var(--durability-text-color);
+    text-align: left;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.experiences__pet-project-responsibilities {
+    color: var(--secondary-text-color);
+    padding-left: 20px;
+}
+  
+.experiences__pet-project-link{
+    color: var(--secondary-text-color);
+}
+
 .experiences__company-project-role {
     color: var(--durability-text-color);
     text-align: left;
